@@ -44,3 +44,26 @@ document.getElementById("unfamiliarOperators").onclick = function () {
     num++;
     output.innerHTML = num
 }
+
+
+
+var array = [
+    {
+        name: "",
+        email: "",
+        experience: [
+            "1st",
+            "2nd",
+            "3rd",
+            "4th",
+            "5th",
+            "6th",
+            "7th",
+        ]
+    },
+    {
+        name: "",
+        email: "",
+        id: "",
+    },
+]
